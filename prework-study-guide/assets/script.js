@@ -1,6 +1,6 @@
 var topics =["HTML", "CSS", "Git", "JavaScript"];
-for(var y = 0; y < topics.length; y++){
-    console.log(topics[y])
+  for(var y=0;y < topics.length; y++){
+    console.log(topics[y]) 
 }
 /*
 if (topic === 'HTML') {
